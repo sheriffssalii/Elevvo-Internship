@@ -1,4 +1,5 @@
-# Task 5 - Dark/Light Theme Toggle
+# Task 5 - Build a Responsive Landing Page
+for a Tech Product
 
 ## 📌 Overview
 This task demonstrates how to implement a **dark/light theme toggle** using only **HTML, CSS, and JavaScript**.  
