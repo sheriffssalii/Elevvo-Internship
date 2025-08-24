@@ -1,29 +1,36 @@
-# Task 5 - Build a Responsive Landing Page
-for a Tech Product
+# Task 5 - Marketing Landing Page with Theme Toggle
 
 ## 📌 Overview
-This task demonstrates how to implement a **dark/light theme toggle** using only **HTML, CSS, and JavaScript**.  
-The user can switch between light mode and dark mode, and the selected preference is saved in **localStorage** so it persists across page reloads.
+This task involves building a **responsive marketing landing page** for a fictional tech product or SaaS tool.  
+The page includes a **theme toggle (light/dark mode)** implemented with JavaScript, along with clean layout structuring, responsive design, and effective CTAs (Call-to-Actions).
 
 ---
 
 ## ✨ Features
-- 🌗 Dark/Light theme toggle button  
-- 🎨 Theme variables using CSS custom properties (`--bg`, `--text`, `--accent`, etc.)  
-- 💾 Persists theme preference using **localStorage**  
-- 🖱️ Smooth scroll navigation for internal links  
+- 🌗 **Light/Dark Mode Toggle** (saves user preference with localStorage)  
+- 📱 **Responsive Design** (mobile, tablet, desktop)  
+- 🎨 **Modern Layout** using Flexbox & Grid  
+- 🧩 Sections included:
+  - Hero  
+  - Features  
+  - Testimonials  
+  - Pricing  
+  - Call-to-Action  
+- 🖼️ Use of icons, cards, and structured components  
+- 🖋️ Improved **UX writing** for clarity and engagement  
 
 ---
 
-## 🛠️ Technologies Used
-- **HTML5**  
-- **CSS3** (CSS Variables for theming)  
-- **JavaScript (ES6)**  
+## 🛠️ Covered Topics
+- HTML5  
+- CSS3 (Flexbox/Grid, CSS Variables)  
+- JavaScript (DOM, LocalStorage, Event Handling)  
+- Optional: Bootstrap or TailwindCSS  
 
 ---
 
 ## 🚀 How to Run
-1. Clone this repository:
+1. Clone the repository:
    ```bash
    git clone https://github.com/sheriffssalii/Elevvo-Internship.git
    
@@ -31,4 +38,8 @@ Navigate to the task-5 folder:
 
 cd Elevvo-Internship/task-5
 
-Open the index.html file in your browser.
+Open index.html in your browser.
+
+👨‍💻 Author
+
+Sherif Ali Zaid
