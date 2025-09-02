@@ -5,9 +5,9 @@ Each task demonstrates a unique idea implemented with **HTML, CSS, and JavaScrip
 ## 📂 Repository Structure
 Elevvo-Internship/
 ├── task-1/ → Responsive Sidebar
-├── task-2/ → [Your Idea / Project Name]
-├── task-3/ → [Your Idea / Project Name]
-├── task-4/ → [Your Idea / Project Name]
+├── task-2/ → Contact Form
+├── task-5/ → Build a Responsive Landing Page
+for a Tech Product
 └── README.md → Overview of all tasks
 
 ## ✅ Covered Topics
@@ -20,9 +20,8 @@ Elevvo-Internship/
 
 ## 🚀 Tasks Overview
 - **Task 1:** Responsive Sidebar with toggle button and smooth animations  
-- **Task 2:** *[Add short description]*  
-- **Task 3:** *[Add short description]*  
-- **Task 4:** *[Add short description]*  
+- **Task 2:** Build a contact form that looks good on all screen sizes.  
+- **Task 5:** Design and implement a marketing landing page for a fictional tech product  
 
 ---
 
